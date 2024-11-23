@@ -1,0 +1,58 @@
+[
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\Source\\GunSurvivors\\GunSurvivors.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\.vscode\\compileCommands_GunSurvivors\\GunSurvivors.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\Source\\GunSurvivors\\GunSurvivors.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\.vscode\\compileCommands_GunSurvivors\\GunSurvivors.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\Source\\GunSurvivors\\GunSurvivors.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\.vscode\\compileCommands_GunSurvivors\\GunSurvivors.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\Source\\GunSurvivors\\GunSurvivorsGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\.vscode\\compileCommands_GunSurvivors\\GunSurvivors.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\Source\\GunSurvivors\\GunSurvivorsGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\.vscode\\compileCommands_GunSurvivors\\GunSurvivors.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\Source\\GunSurvivors\\TopdownCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\.vscode\\compileCommands_GunSurvivors\\GunSurvivors.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\Source\\GunSurvivors\\TopdownCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Raul\\Documents\\Unreal Projects\\GunSurvivors\\.vscode\\compileCommands_GunSurvivors\\GunSurvivors.1.rsp"
+		],
+		"directory": "D:\\UE_5.3\\Engine\\Source"
+	}
+]
